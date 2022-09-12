@@ -1,0 +1,16 @@
+the main goal from this project is to build a pretty web app using streamlit
+we take the id for an episod of a prodcast from the listnote database and the it gives all informations needed 
+we use the auto_chapters from assemblyai which takes the podcast and devide it to chapters 
+ 
+ output:
+ 2files:
+ .txt:the transcription of the podcast
+ .json:the informations about the podcast(chapters created by the auto_chapters feature with its parameters / audio_url/thumbnail/podcast_title/episode_title)
+ this informations are integrated in the web app
+
+we we run the streamlit library we get the web app
+
+
+
+
+

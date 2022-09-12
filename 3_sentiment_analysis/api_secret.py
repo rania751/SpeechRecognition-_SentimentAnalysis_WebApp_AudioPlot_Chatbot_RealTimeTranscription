@@ -1,0 +1,2 @@
+# authentication
+API_KEY_ASSEMBLYAI="d0efed21b9324316866e4fc939ef4808"

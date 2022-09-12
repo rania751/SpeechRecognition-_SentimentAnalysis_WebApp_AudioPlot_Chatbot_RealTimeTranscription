@@ -1,0 +1,20 @@
+with this project we are able to  extract thi informations from youtube to get a video or a play list 
+with the use of youtube_dl 
+we just send the video url from youtube 
+and we get the audio-url with the extractor file
+we send it to the assemblyai for the transcription
+we use the sentiment analysis feature provided by assemblyai
+
+outputs:
+2 files
+.txt:which contains the transcription of the video
+.json:which contains the sentiment analysis
+with this parameters
+   {
+        "text": "a phrase from the speech",
+        "start": 9226,
+        "end": 21466,
+        "sentiment": "POSITIVE", 
+        "confidence": 0.9786142706871033,
+        "speaker": null
+    },

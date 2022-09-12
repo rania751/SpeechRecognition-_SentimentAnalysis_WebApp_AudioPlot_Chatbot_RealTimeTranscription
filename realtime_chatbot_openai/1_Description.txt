@@ -1,0 +1,4 @@
+in this project we creat a chatbot (Q&A)
+real time transcription (this feature should be paied)
+access to your micro and you can talk with your pc 
+using the openai api(Question and Answer)

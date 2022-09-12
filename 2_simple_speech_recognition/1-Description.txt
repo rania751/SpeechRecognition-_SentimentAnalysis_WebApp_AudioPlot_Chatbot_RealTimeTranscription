@@ -1,0 +1,2 @@
+In this project we did a simple speech recognition so we can take the file .wav recorded by your micro in the first project 
+and download it in assemblyai then we do the transcription of the audio (return a file .txt that contains your speech )

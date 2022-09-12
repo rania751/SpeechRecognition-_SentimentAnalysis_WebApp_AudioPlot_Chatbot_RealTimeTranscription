@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Maybe one day I'll learn to smile for pictures maybe one day I'll have a dream maybe one day I'll learn what love is.",
+        "start": 250,
+        "end": 10700,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8496034145355225,
+        "speaker": null
+    },
+    {
+        "text": "Maybe one day I'll have a purpose maybe one day I learned what happiness is.",
+        "start": 11570,
+        "end": 19040,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8193637132644653,
+        "speaker": null
+    },
+    {
+        "text": "Maybe one day I'll wake up different but until then, I'll keep imagining living my life because it's better than living it.",
+        "start": 19850,
+        "end": 31380,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6583991050720215,
+        "speaker": null
+    }
+]
